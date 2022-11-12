@@ -18,6 +18,7 @@
     
 - Day 5 | Project Day | JavaScript Programming Essentials Bootcamp (5 Days)
     - [YouTube Live](https://youtu.be/DE7oPVdbQeM)
+    - [Assignment](https://github.com/IamNaeto/lets-upgrade-js-bootcamp/tree/main/how-lucky-are-you)
     
     
 ## Author: Charles Obimnaeto Egesionu ##
